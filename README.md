@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LucasRSteimetz
-- 👀 I’m interested in: Programming, Languages
+- 👀 I’m interested in: Programming, Languages, Books
 - 🌱 I’m currently learning: Python
 - 💞️ I’m looking to collaborate on: Programming Projetcs using C or Python 
 - 📫 How to reach me: E-mail: steimetz.lucas@gmail.com ; Instagram: lucasrsteimetz
