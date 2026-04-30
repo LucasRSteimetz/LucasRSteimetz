@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LucasRSteimetz
 - 👀 I’m interested in: Programming, Languages, Books
-- 🌱 I’m currently learning: Python & Ruby
-- 💞️ I’m looking to collaborate on: Programming Projetcs using especially C or Python, but I'm also eager to learn other programming languages
+- 🌱 I’m currently learning: JavaScript
+- 💞️ I’m looking to collaborate on: Backend Projects
 - 📫 How to reach me: E-mail: steimetz.lucas@gmail.com ; Instagram: lucasrsteimetz
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I know the greek, hebrew, russian and japanese alphabets, but can't really use them
